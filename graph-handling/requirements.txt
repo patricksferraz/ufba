@@ -1,0 +1,17 @@
+appdirs==1.4.3
+attrs==19.1.0
+black==19.3b0
+certifi==2019.6.16
+Click==7.0
+entrypoints==0.3
+flake8==3.7.7
+mccabe==0.6.1
+mkl-fft==1.0.12
+mkl-random==1.0.2
+numpy==1.16.4
+pycodestyle==2.5.0
+pyflakes==2.1.1
+python-dateutil==2.8.0
+pytz==2019.1
+six==1.12.0
+toml==0.10.0
