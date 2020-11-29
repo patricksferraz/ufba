@@ -1,0 +1,6 @@
+A ^ B ^ C => D
+A | B => C
+A ^ C => E
+END
+A
+D
