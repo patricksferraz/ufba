@@ -1,0 +1,6 @@
+B | A ^ E => C
+C ^ E => F
+D ^ C => I
+END
+A,E
+B
